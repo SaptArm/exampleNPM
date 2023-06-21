@@ -1,0 +1,25 @@
+{
+  "name": "saptarm_example_npm",
+  "version": "1.0.0",
+  "description": "first npm example",
+  "main": "index.js",
+  "scripts": {
+    "test": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaptArm/exampleNPM.git"
+  },
+  "keywords": [
+    "examplerepository"
+  ],
+  "author": "SaptArm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaptArm/exampleNPM/issues"
+  },
+  "homepage": "https://github.com/SaptArm/exampleNPM#readme",
+  "dependencies": {
+    "jquery": "^3.7.0"
+  }
+}
